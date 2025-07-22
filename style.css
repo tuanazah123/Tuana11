@@ -151,6 +151,13 @@ nav a:hover {
   line-height: 1.8;
 }
 
+.footer-content {
+    text-align: center;
+    padding: 1rem;
+    font-size: 0.9rem;
+  }
+
+
 @media (max-width: 768px) {
   nav {
     flex-direction: column;
